@@ -4,7 +4,7 @@ import java.time.Clock
 import java.time.Duration
 import java.time.Instant
 
-import com.github.tomboyo.funk.Timed
+import com.github.tomboyo.jgs.Timed
 
 class TimedSpec extends Specification {
 

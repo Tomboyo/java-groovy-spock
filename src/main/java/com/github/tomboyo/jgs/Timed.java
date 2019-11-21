@@ -1,4 +1,4 @@
-package com.github.tomboyo.funk;
+package com.github.tomboyo.jgs;
 
 import java.time.Clock;
 import java.time.Duration;
