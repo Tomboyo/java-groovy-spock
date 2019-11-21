@@ -1,0 +1,17 @@
+plugins {
+  id 'groovy'
+}
+
+repositories {
+  mavenCentral()
+}
+
+java {
+  sourceCompatibility = JavaVersion.VERSION_1_8
+  targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+  compile "org.codehaus.groovy:groovy-all:2.5.8"
+  testCompile "org.spockframework:spock-core:1.3-groovy-2.5"
+}

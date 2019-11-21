@@ -1,0 +1,11 @@
+# VSCode
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+
+# Gradle
+.gradle/
+build/
+
